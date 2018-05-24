@@ -1,6 +1,4 @@
 
-// TODO style in the center like in the create react app template
-
 // TODO write tests
 
 // TODO run jslint
