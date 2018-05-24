@@ -13,6 +13,9 @@
 // TODO don't bind values in functions in render
 // (https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
 
+// TODO try using functional components instead of ES6 classes
+// https://reactjs.org/docs/react-without-es6.html
+
 // TODO Add a toggle button that lets you sort the moves ascending or descending
 // TODO When someone wins, highlight the three squares that caused the win.
 // TODO When no one wins, display a message about the result being a draw instead of "next player:"
