@@ -1,0 +1,24 @@
+
+// TODO style in the center like in the create react app template
+
+// TODO write tests
+
+// TODO run jslint
+
+// TODO in Game, check if the square should even have a click handler and maybe don't assign it
+// so Game.handleClick doesn't even need to do a check to quit early
+
+// TODO build and serve like you would in production
+
+// TODO don't bind values in functions in render
+// (https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
+
+// TODO Add a toggle button that lets you sort the moves ascending or descending
+// TODO When someone wins, highlight the three squares that caused the win.
+// TODO When no one wins, display a message about the result being a draw instead of "next player:"
+
+// TODO new game button
+// TODO import axios
+// TODO integrate game with a back end for an AI player, use websockets
+
+// TODO document component, pure component, stateless functional component
