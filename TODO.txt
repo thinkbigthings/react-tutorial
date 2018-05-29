@@ -1,12 +1,15 @@
 
-// TODO write tests
-
 // TODO run jslint
 
 // TODO in Game, check if the square should even have a click handler and maybe don't assign it
 // so Game.handleClick doesn't even need to do a check to quit early
 
 // TODO build and serve like you would in production
+
+// TODO write shallow and deep tests (use Jest, based on Jasmine)
+// https://facebook.github.io/jest/docs/en/tutorial-react.html
+// https://facebook.github.io/jest/
+// https://github.com/facebook/jest/blob/master/examples/react/__tests__/checkbox_with_label.test.js
 
 // TODO don't bind values in functions in render
 // (https://codeburst.io/when-to-use-component-or-purecomponent-a60cfad01a81)
